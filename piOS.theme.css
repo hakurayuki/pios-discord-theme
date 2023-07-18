@@ -14,10 +14,10 @@
 
 /* See https://github.com/Saltssaumure/pios-discord-theme#customisation for customisation settings. */
 :root {
-    --pios-glow-hue:        300;
-    --pios-glow-intensity:  1;
+    --pios-glow-hue:        170;
+    --pios-glow-intensity:  0.5;
     --pios-spacing:         1;
-    --pios-accent-hue:      333;
+    --pios-accent-hue:      170;
     --pios-title-text:      "i <3 femboys";
 
     --crt-stripe:   block;
